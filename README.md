@@ -1,2 +1,2 @@
-# tunnitoo-canvaspass
+# tunnitoo-canvastest
 tunnitöö
